@@ -18,7 +18,7 @@ application. It is build by Jenkin and deployed by Ansible.
 </tr>
 </table>
 
-<%= new java.util.Date() %>
+<%= date = new java.util.Date() %>
 <p> Greetings, this is the first version of our test app. The time is currently: <%= date %>
 </p>
 
