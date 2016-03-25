@@ -3,6 +3,7 @@
   <title>Echoing HTML Request Parameters</title>
 </head>
 <body>
+<img src="images/tomcat.gif">
   <h3>Choose an author:</h3>
   <form method="get">
     <input type="checkbox" name="author" value="Tan Ah Teck">Tan
